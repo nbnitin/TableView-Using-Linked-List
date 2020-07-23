@@ -1,0 +1,6 @@
+framework module Pods_App_Using_Linked_List {
+  umbrella header "Pods-App Using Linked List-umbrella.h"
+
+  export *
+  module * { export * }
+}
